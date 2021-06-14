@@ -1,0 +1,16 @@
+C:\Users\Bo\source\repos\hw3\EXERCISE2\obj\Debug\net5.0\EXERCISE2.csproj.AssemblyReference.cache
+C:\Users\Bo\source\repos\hw3\EXERCISE2\obj\Debug\net5.0\EXERCISE2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bo\source\repos\hw3\EXERCISE2\obj\Debug\net5.0\EXERCISE2.AssemblyInfoInputs.cache
+C:\Users\Bo\source\repos\hw3\EXERCISE2\obj\Debug\net5.0\EXERCISE2.AssemblyInfo.cs
+C:\Users\Bo\source\repos\hw3\EXERCISE2\obj\Debug\net5.0\EXERCISE2.csproj.CoreCompileInputs.cache
+C:\Users\Bo\source\repos\hw3\EXERCISE2\bin\Debug\net5.0\EXERCISE2.exe
+C:\Users\Bo\source\repos\hw3\EXERCISE2\bin\Debug\net5.0\EXERCISE2.deps.json
+C:\Users\Bo\source\repos\hw3\EXERCISE2\bin\Debug\net5.0\EXERCISE2.runtimeconfig.json
+C:\Users\Bo\source\repos\hw3\EXERCISE2\bin\Debug\net5.0\EXERCISE2.runtimeconfig.dev.json
+C:\Users\Bo\source\repos\hw3\EXERCISE2\bin\Debug\net5.0\EXERCISE2.dll
+C:\Users\Bo\source\repos\hw3\EXERCISE2\bin\Debug\net5.0\ref\EXERCISE2.dll
+C:\Users\Bo\source\repos\hw3\EXERCISE2\bin\Debug\net5.0\EXERCISE2.pdb
+C:\Users\Bo\source\repos\hw3\EXERCISE2\obj\Debug\net5.0\EXERCISE2.dll
+C:\Users\Bo\source\repos\hw3\EXERCISE2\obj\Debug\net5.0\ref\EXERCISE2.dll
+C:\Users\Bo\source\repos\hw3\EXERCISE2\obj\Debug\net5.0\EXERCISE2.pdb
+C:\Users\Bo\source\repos\hw3\EXERCISE2\obj\Debug\net5.0\EXERCISE2.genruntimeconfig.cache
